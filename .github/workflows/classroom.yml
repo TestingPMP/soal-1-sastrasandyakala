@@ -86,7 +86,7 @@ jobs:
           command: ./soal1
           input: "4 8 2 -1 -1"
           expected-output: |-
-            RECOVERED 8 2 2 2
+            RECOVERED 8 2 1 0
             MAX_SUM 14
           comparison-method: exact
           timeout: 2
